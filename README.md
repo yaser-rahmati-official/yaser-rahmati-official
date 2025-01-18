@@ -1,4 +1,4 @@
-[![MasterHead](Image/Python-03.jpg)](https://rishavchanda.io)
+[![MasterHead](Image/Python-03.png)](https://rishavchanda.io)
 
 ## Hi there 👋
 
