@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**🖥 Skills**
+Machine Learning
+Deep Learning
+Natural Language Processing
+Computer Vision
