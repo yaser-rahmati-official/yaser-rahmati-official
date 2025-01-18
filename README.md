@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 **🖥 Skills**
-Machine Learning
-Deep Learning
-Natural Language Processing
-Computer Vision
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
