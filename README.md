@@ -1,4 +1,4 @@
-[![MasterHead](Image/Python-01.jpg)](https://rishavchanda.io)
+[![MasterHead](Electrical-Engineering-with-Python/Image/Python-01.jpg)](https://rishavchanda.io)
 
 ## Hi there 👋
 
