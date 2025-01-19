@@ -27,6 +27,8 @@ With a profound appreciation for Python's adaptability and its extensive communi
 * Control Systems
 * Signal Processing
 
+## 📡 [Electrical Engineering with Python](https://github.com/yaser-rahmati-official/Electrical-Engineering-with-Python)
+
 <!--
 **yaser-rahmati-official/yaser-rahmati-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
