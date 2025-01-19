@@ -27,7 +27,14 @@ With a profound appreciation for Python's adaptability and its extensive communi
 * Control Systems
 * Signal Processing
 
+## 📊 [Data Science with Python](https://github.com/yaser-rahmati-official/Data-Science-with-Python)
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
 
+## 💰 [Algorithmic Trading with Python](http://url_here)
+* Machine Learning
 
 <!--
 **yaser-rahmati-official/yaser-rahmati-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,8 +51,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🖥 Skills**
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Computer Vision
