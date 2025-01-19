@@ -9,7 +9,7 @@ Leveraging Python’s intuitive syntax and its vast ecosystem of libraries, I ac
 
 With a profound appreciation for Python's adaptability and its extensive community-driven resources, I continuously strive to harness its potential to innovate and excel in these domains.
 
-## I ❤️ Python
+## ➗ Applying Math with Python
 * Pre-Calculus
 * Calculus I (Differential Calculus)
 * Calculus II (Integral Calculus)
