@@ -9,6 +9,12 @@ Leveraging Python’s intuitive syntax and its vast ecosystem of libraries, I ac
 
 With a profound appreciation for Python's adaptability and its extensive community-driven resources, I continuously strive to harness its potential to innovate and excel in these domains.
 
+## I ❤️ Python
+* Pre-Calculus
+* Calculus I (Differential Calculus)
+* Calculus II (Integral Calculus)
+* Multivariable Calculus
+
 
 <!--
 **yaser-rahmati-official/yaser-rahmati-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
