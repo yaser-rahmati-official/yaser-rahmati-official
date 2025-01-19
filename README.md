@@ -9,7 +9,7 @@ Leveraging Python’s intuitive syntax and its vast ecosystem of libraries, I ac
 
 With a profound appreciation for Python's adaptability and its extensive community-driven resources, I continuously strive to harness its potential to innovate and excel in these domains.
 
-## ➗ Applying Math with Python
+## ➗ [Applying Math with Python](https://github.com/yaser-rahmati-official/Applying-Math-with-Python)
 * Foundational Mathematics Courses
 * Calculus
 * Linear Algebra
@@ -27,8 +27,7 @@ With a profound appreciation for Python's adaptability and its extensive communi
 * Control Systems
 * Signal Processing
 
-### 📡 [Electrical Engineering with Python](https://github.com/yaser-rahmati-official/Electrical-Engineering-with-Python)
-#### 📡 [Electrical Engineering with Python](https://github.com/yaser-rahmati-official/Electrical-Engineering-with-Python)
+
 
 <!--
 **yaser-rahmati-official/yaser-rahmati-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
