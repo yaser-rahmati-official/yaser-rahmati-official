@@ -19,6 +19,13 @@ With a profound appreciation for Python's adaptability and its extensive communi
 * Advanced Mathematics
 * Applied Mathematics
 
+## 📡 Electrical Engineering with Python
+* Circuit Analysis
+* Electronics
+* Power Systems
+* Electromagnetics
+* Control Systems
+* Signal Processing
 
 <!--
 **yaser-rahmati-official/yaser-rahmati-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
