@@ -34,7 +34,14 @@ With a profound appreciation for Python's adaptability and its extensive communi
 * Computer Vision
 
 ## 💰 [Algorithmic Trading with Python](http://url_here)
-* Machine Learning
+* Python and Statistics for Financial Analysis
+* Machine Learning for Trading
+* Technical Analysis for Algorithmic Trading
+* Portfolio and Risk Management
+* High-Frequency Trading in Python
+* Crypto Trading Bots in Python
+* Interactive Brokers Python API
+* Building and testing strategies with Backtrader, PyAlgoTrade, and QuantLib
 
 <!--
 **yaser-rahmati-official/yaser-rahmati-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
