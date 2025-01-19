@@ -33,7 +33,7 @@ With a profound appreciation for Python's adaptability and its extensive communi
 * Natural Language Processing
 * Computer Vision
 
-## 💰 [Algorithmic Trading with Python](http://url_here)
+## 💰 [Algorithmic Trading with Python](https://github.com/yaser-rahmati-official/Algorithmic-Trading-with-Python)
 * Python and Statistics for Financial Analysis
 * Machine Learning for Trading
 * Technical Analysis for Algorithmic Trading
